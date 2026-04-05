@@ -1,4 +1,4 @@
-# Game Nebula
+<img width="2136" height="1334" alt="image" src="https://github.com/user-attachments/assets/c7fb45ff-d592-4375-b5ee-adfb143d6537" /># Game Nebula
 
 一个基于 Electron + React + TypeScript 的本地游戏启动器。
 
@@ -13,7 +13,10 @@
 - 托盘能力：最小化到托盘、托盘最近游玩快捷启动。
 - 性能选项：设置中可切换 GPU 渲染。
 - 数据持久化：游戏库与设置保存在本地。
-
+- <img width="2136" height="1334" alt="image" src="https://github.com/user-attachments/assets/8abc8aa5-bb56-47c3-84ca-7d0bdc176c90" />
+<img width="2160" height="1350" alt="image" src="https://github.com/user-attachments/assets/351166da-60fb-41ab-835a-8f096186c569" />
+<img width="2145" height="1346" alt="image" src="https://github.com/user-attachments/assets/d15b3147-7958-4b64-8a91-d72fa3d78027" />
+<img width="2144" height="1334" alt="image" src="https://github.com/user-attachments/assets/d3c1ff05-3804-4dc4-81bd-6bafd1c26c0f" />
 ## 技术栈
 
 - Electron 28
