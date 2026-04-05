@@ -1,6 +1,7 @@
 {
   "name": "game-nebula-launcher",
-  "author": "SuYuan",
+  "author": "imSuYuan",
+  "license": "Apache-2.0",
   "private": true,
   "version": "0.1.0",
   "type": "module",
