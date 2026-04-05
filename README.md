@@ -96,3 +96,4 @@ pnpm dist:win
 - 应用名：Game Nebula
 - 当前版本：0.1.0
 - 作者：imSuYuan
+"# Game-Nebula" 
