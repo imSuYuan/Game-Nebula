@@ -85,15 +85,6 @@ pnpm dist:win
 └─ package.json
 ```
 
-## 上传 GitHub 前检查清单
-
-- 确认 `package.json` 中 `name`、`version`、`author` 正确。
-- 运行 `pnpm lint`，确保无明显静态检查问题。
-- 运行 `pnpm dist:win`，确认安装包可正常安装与启动。
-- 检查 `.gitignore`，避免提交以下目录：`node_modules/`、`dist/`、`dist-electron/`、`release/`。
-- 如要发布开源仓库，补充 `LICENSE` 文件并在 README 标明许可证。
-- 如要发布 release，请在 GitHub Releases 上传 `release/` 中的 `.exe`。
-
 ## 版本信息
 
 - 应用名：Game Nebula
