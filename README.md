@@ -92,6 +92,6 @@ pnpm dist:win
 - 当前版本：0.1.0
 - 作者：imSuYuan
 
-- ## 许可证
+## 许可证
 
 本项目使用 Apache License 2.0 开源许可证，详见 LICENSE 文件。
